@@ -1,12 +1,13 @@
 # Wenxin Yan
 
-Motion designer building AI-assisted creative tools for After Effects.
+Motion & Brand Designer at Wanderboat, building AI-assisted creative tools for After Effects.
 
 I am currently exploring how language models can work directly inside professional motion design workflows: reading project structure, understanding keyframes, generating expressions, building animation rigs, checking rendered frames, and helping designers iterate faster without leaving After Effects.
 
-## Motion Agent
+## [Motion Agent](https://github.com/itswenxin/motion-agent)
 
-Motion Agent is an experimental AI workflow for Adobe After Effects.
+Motion Agent is an open-source AI workflow for Adobe After Effects.
+**Code, installers and case studies: [github.com/itswenxin/motion-agent](https://github.com/itswenxin/motion-agent)**
 
 It connects an AI coding assistant with an active After Effects project through a local bridge, so the assistant can inspect compositions, create and adjust layers, write expressions, set keyframes, run project checks, and support motion design iteration from natural-language requests.
 
@@ -39,5 +40,6 @@ The goal is not to replace motion designers. The goal is to make repetitive tech
 
 ## Links
 
-- Portfolio: https://www.itswenxin.com/
+- Portfolio: https://wenxinin.com
+- Motion Agent: https://github.com/itswenxin/motion-agent
 - GitHub: https://github.com/itswenxin
